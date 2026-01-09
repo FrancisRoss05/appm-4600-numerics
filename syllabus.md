@@ -79,7 +79,6 @@ In the change from 4650 to 4600, we now save numerical differentiation and numer
 - Understand the basics of block computation, LAPACK, and parallel computing
 
 ### Learning Objectives (i.e., quantifiable outcomes)
-[//]: # ( Something measurable )
 - Determine when a problem is ill-conditioned and when an algorithm is unstable; understand the difference between symbolic and numeric computation, and floating-point and fixed-point arithmetic
 - Gain familiariaty with the standard categories of numerical problems
 - Know basic methods, and their tradeoffs, for solving 1-dimensional nonlinear equations and multi-dimensional linear equations
@@ -88,7 +87,7 @@ In the change from 4650 to 4600, we now save numerical differentiation and numer
 
 ### Exams
 Both midterms are Wednesday evening exams that will take place on
-2/23/26 and 3/30/26, time (on or after 5pm) and location TBD; solutions will be made available on Canvas.
+2/25/26 and 4/1/26, time (on or after 5pm) and location TBD; solutions will be made available on Canvas.
 
 
 # High-level list of topics
